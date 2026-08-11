@@ -1,6 +1,0 @@
-# Sistema interno da Forma Turismo.
-#
-# Não bloqueamos o rastreamento de propósito. O "noindex" da página só é
-# obedecido se o buscador conseguir entrar e lê-lo.
-User-agent: *
-Allow: /
